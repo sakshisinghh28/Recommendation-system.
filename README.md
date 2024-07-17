@@ -1,4 +1,4 @@
-# Recommendation-system.
+# Movie Recommendation-system.
 
 ## Overview
 This project implements a movie recommendation system using collaborative filtering techniques on the MovieLens dataset (100k) and MovieLens 20M dataset. Collaborative filtering is a method used to make automatic predictions about the interests of a user by collecting preferences or taste information from many users. The system analyzes user-item interactions to recommend movies that users might like based on their similarity to other users.
